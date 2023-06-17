@@ -1,0 +1,215 @@
+#desktop {
+    border: 1px solid red;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    left: 723px;
+    top: 450px;
+    
+    background: #FAF7FD; 
+}
+
+.group1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 612px;
+    top: 201px;
+
+    border: 2px solid #BB99DD;
+    border-radius: 50%;
+}
+
+.maskgroup img{
+    
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 619px;
+    top: 207px; 
+    
+
+}
+
+.foto  {
+    
+    position: absolute;
+    width: 297px;
+    height: 231.26px;
+    left: 552px;
+    top: 201px;
+      
+}
+
+.ellipse1 {
+    
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 619px;
+    top: 207px;
+    border-radius: 50%;
+    z-index: -1;
+    
+    background: #C4C4C4;
+    
+}
+
+.link1  {
+    
+    box-sizing: border-box;
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 486px; 
+    border: 2px solid #BB99DD;
+    border-radius: 4px;  
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.link2   {
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 551px;
+    border-radius: 4px;
+    border: 2px solid #BB99DD;
+    text-decoration: none;
+    list-style-type: none;  
+}
+
+.link3  {
+    
+    box-sizing: border-box;
+position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 616px;
+border: 2px solid #BB99DD;
+    border-radius: 4px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.link4   {
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 681px;
+    
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.instragam p{
+    
+    position: absolute;
+    width: 142px;
+    height: 24px;
+    left: 644px;
+    top: 410px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    
+  /* identical to box height */
+
+    text-align: center;
+
+    color: #BB99DD;
+
+}
+
+
+
+ ul li a {
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    list-style-type: none;
+    
+
+    
+   /* identical to box height */
+    
+    text-transform: uppercase;
+    list-style: none;
+    padding-left: 135px;
+    color: #BB99DD;
+    text-decoration: none;
+    
+    
+}
+.twitter {
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 590px;
+top: 821.94px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+  
+}
+.twitch {
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 645px;
+top: 822.08px;
+color: #BB99DD;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.instragam1 {
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 703px;
+top: 823.19px;
+color: #BB99DD;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.linkedin {
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 760px;
+top: 821.54px;
+color: #BB99DD;
+transform: matrix(-1, 0, 0, 1, 0, 0); 
+}
+
+.github {
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 820px;
+top: 822.03px;
+color: #BB99DD;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
